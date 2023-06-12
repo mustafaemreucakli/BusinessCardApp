@@ -1,3 +1,3 @@
 # BusinessCardApp
-https://drive.google.com/file/d/16V84NuONefgb8d0zmeQFYq5_lwNHj4bN/view?usp=drive_link
 
+![BusinessCardAppPhoto](https://github.com/mustafaemreucakli/BusinessCardApp/assets/73758831/7013d70d-3ede-48c2-b80c-6185d720629c)
