@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCardApp</string>
+    <string name="user_name">Your Name is Here!</string>
+    <string name="user_title">Your Title is Here!</string>
+    <string name="user_phone_number">+90 123 456 78 90</string>
+    <string name="user_email_address">youremailaddress@gmail.com</string>
+    <string name="user_social_media_address">\@socialmediaaddress</string>
+</resources>
